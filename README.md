@@ -1,6 +1,6 @@
 # Global WiFi wardriving map
 
-[![CI](https://github.com/JJ-Dynamite/wigle-wifi/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/wigle-wifi/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/faang-wigle-wifi/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-wigle-wifi/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Global WiFi wardriving map - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/wigle-wifi.git
+git clone https://github.com/JJ-Dynamite/faang-wigle-wifi.git
 cd wigle-wifi
 
 # Install backend dependencies

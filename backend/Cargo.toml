@@ -1,11 +1,11 @@
 [package]
-name = "wigle-wifi-backend"
+name = "faang-wigle-wifi-backend"
 version = "0.1.0"
 edition = "2021"
 description = "Global WiFi wardriving map - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/wigle-wifi"
+repository = "https://github.com/JJ-Dynamite/faang-wigle-wifi"
 
 [dependencies]
 axum = "0.7"

@@ -9,7 +9,7 @@ services:
       - "3001:3001"
     environment:
       - RUST_LOG=info
-      - DATABASE_URL=postgres://postgres:postgres@db:5432/wigle_wifi
+      - DATABASE_URL=postgres://postgres:postgres@db:5432/faang_wigle_wifi
     depends_on:
       db:
         condition: service_healthy
@@ -32,7 +32,7 @@ services:
     environment:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
-      - POSTGRES_DB=wigle_wifi
+      - POSTGRES_DB=faang_wigle_wifi
     ports:
       - "5432:5432"
     volumes:

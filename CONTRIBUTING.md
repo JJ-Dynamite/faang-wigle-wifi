@@ -1,4 +1,4 @@
-# Contributing to faang-wigle-wifi
+# Contributing to wiglewifi
 
 Thank you for your interest in contributing!
 
